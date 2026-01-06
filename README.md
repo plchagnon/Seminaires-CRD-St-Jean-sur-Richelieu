@@ -20,3 +20,8 @@ Date|Présentateur|Qui invite?|Institution d'attache|Titre
 |13 mars 2025||||
 |17 avril 2025||||
 |15 mai 2025|Noura Ziadi|Jacynthe Masse|AAC|À venir...
+|22 janvier 2026||||
+19 février 2026||||
+19 mars 2026||||
+16 avril 2026||||
+21 mai 2026||||
